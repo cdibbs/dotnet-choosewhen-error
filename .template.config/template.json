@@ -1,0 +1,8 @@
+{
+  "author": "Me",
+  "classifications": [ "Custom Templates" ],
+  "name": "My first template",
+  "identity": "MyName.MyTemplate.CSharp",
+  "shortName": "helloworld",
+  "guids": [ "27205f2c-1dad-4f67-a02f-2d71d93a4780" ]
+}
